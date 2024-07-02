@@ -1,7 +1,7 @@
-import AreaChart from "./components/AreaChart";
-import BarChart from "./components/BarChart";
-import LineChart from "./components/LineChart";
-import PieChart from "./components/PieChart";
+import AreaChart from "@/Components/AreaChart";
+import BarChart from "@/Components/BarChart";
+import LineChart from "@/Components/LineChart";
+import PieChart from "@/Components/PieChart";
 
 export default function Home() {
   return (
